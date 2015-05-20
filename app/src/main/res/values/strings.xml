@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AndroidApp</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="editText">write your name</string>
+    <string name="Name">Name</string>
+    <string name="Like">Like</string>
+    <string name="editText2">write your likes</string>
+    <string name="Dislike">Dislike</string>
+    <string name="editText3">write your dislikes</string>
+    <string name="Submit">Submit</string>
+    <string name="title_activity_message_appear">messageAppear</string>
+
+    <string name="hello_world">Hello world!</string>
+
+
+
+</resources>
